@@ -1,4 +1,4 @@
-[[https://travis-ci.org/TylerHanavan/Unixify.svg?branch=master|alt=Status]]
+![Build Status](https://travis-ci.org/TylerHanavan/Unixify.svg?branch=master "Build Status")
 
 # Unixify
 
