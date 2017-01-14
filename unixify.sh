@@ -1,5 +1,7 @@
 #! /bin/bash
 
+apt-get -y dos2unix
+
 IFS='\n'
 readarray -t array <<< "$(ls | grep -v -e 'unixify.sh')"
 
